@@ -5,6 +5,7 @@ http://35.221.73.251:8000/
 urls:
 
 register/
+
 login/
 logout/
 product/
