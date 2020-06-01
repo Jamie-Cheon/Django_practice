@@ -7,11 +7,19 @@ urls:
 register/
 
 login/
+
 logout/
+
 product/
+
 product/create/
+
 product/<int:pk>/
+
 order/
+
 order/create/
+
 api/product/
+
 api/product/<int:pk>/
